@@ -1,5 +1,5 @@
 # Netflix Data Analysis with SQL
-![netflix_logo](https://images.ctfassets.net/y2ske730sjqp/5QQ9SVIdc1tmkqrtFnG9U1/de758bba0f65dcc1c6bc1f31f161003d/BrandAssets_Logos_02-NSymbol.jpg?w=940)
+![netflix_logo]([https://images.ctfassets.net/y2ske730sjqp/5QQ9SVIdc1tmkqrtFnG9U1/de758bba0f65dcc1c6bc1f31f161003d/BrandAssets_Logos_02-NSymbol.jpg?w=940](https://cdn.freebiesupply.com/logos/large/2x/netflix-logo-svg-vector.svg))
 
 ##This project explores Netflix's content using raw SQL. It includes table creation and 15 real-world business queries to extract insights from the platform’s dataset. The analysis is done entirely in SQL using PostgreSQL, with a focus on learning, exploration, and content strategy insights.
 
